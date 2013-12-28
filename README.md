@@ -44,4 +44,7 @@ Then you can simply call:
     PutsColor.put_purple("")
     PutsColor.put_cyan("")
     PutsColor.put_grey("")
-        
+
+## Screenshot
+
+![PutsColor](https://raw.github.com/tobegit3hub/PutsColor/master/screenshot/PutsColor.png)
